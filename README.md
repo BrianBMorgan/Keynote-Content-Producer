@@ -1,10 +1,10 @@
 # Keynote Content Producer
 
-A GitHub Copilot skill that turns executive priorities, product launches, customer proof, and brand moments into a coherent main-stage audience experience — from strategy through post-event.
+A GitHub Claude skill that turns executive priorities, product launches, customer proof, and brand moments into a coherent main-stage audience experience — from strategy through post-event.
 
 ## What this skill does
 
-The **Keynote Content Producer** skill gives Copilot the mindset and methods of a seasoned show producer. It covers the full lifecycle of a high-stakes keynote: message architecture, narrative structure, script and teleprompter formatting, asset briefing, run-of-show production, speaker development, risk management, and post-event measurement.
+The **Keynote Content Producer** skill gives Claude the mindset and methods of a seasoned show producer. It covers the full lifecycle of a high-stakes keynote: message architecture, narrative structure, script and teleprompter formatting, asset briefing, run-of-show production, speaker development, risk management, and post-event measurement.
 
 It is not a slide-design tool or a logistics-only event planner. It protects the narrative while keeping every visible and audible element executable.
 
@@ -38,7 +38,7 @@ The extracted folder contains:
 
 ```
 keynote-content-producer/
-├── SKILL.md                        # Skill definition loaded by Copilot
+├── SKILL.md                        # Skill definition loaded by Claude
 ├── assets/                         # Fillable templates — produced as deliverables
 │   ├── accessibility-checklist.md
 │   ├── beat-sheet.md
